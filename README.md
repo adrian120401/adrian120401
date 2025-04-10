@@ -36,7 +36,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 --- 
 
 ### :fire: My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adrian120401&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian120401&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
