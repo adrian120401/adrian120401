@@ -7,8 +7,8 @@
     <a href="https://adriandelosreyes.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portafolio-gray?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portafolio Badge"/>
     </a>
-    <a href="https://www.instagram.com/adriandelosreyess" target="_blank">
-      <img src="https://img.shields.io/badge/Instragram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <a href="https://x.com/Adriandlrr" target="_blank">
+      <img src="https://img.shields.io/badge/adriandlrr-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=adrian120401&style=flat-square&color=blue" alt=""/>
